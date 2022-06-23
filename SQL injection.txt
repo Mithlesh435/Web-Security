@@ -11,3 +11,4 @@ Some common SQL injection examples include:
 
 Retrieving hidden data - 
 
+||
